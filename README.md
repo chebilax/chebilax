@@ -35,7 +35,7 @@ Technologies : Javascript
 
 <!-- Section Objectifs avec emojis -->
 ## 🎯 Objectifs
-Passionné par l'infirmatique et enthousiaste à l'idée de commencer ma formation en tant qu'architecte logiciel développeur d'application, mon objectif est de mettre mon expérience et mon désir d'apprendre au service d'une entreprise innovante tout en acquérant de nouvelles connaissances et compétences.
+Passionné par l'informatique et enthousiaste à l'idée de commencer ma formation en tant qu'architecte logiciel développeur d'application, mon objectif est de mettre mon expérience et mon désir d'apprendre au service d'une entreprise innovante tout en acquérant de nouvelles connaissances et compétences.
 
 <!-- Section Contact avec emojis -->
 ## 📫 Contact
